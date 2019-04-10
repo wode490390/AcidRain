@@ -9,6 +9,7 @@ Please see [mcbbs](http://www.mcbbs.net/thread-825299-1-1.html) for more informa
 | - | - |
 | acidrain.immune | Grants immunity to effect from acid rain |
 ## config.yml
+Tip: https://minecraft.gamepedia.com/Bedrock_Edition_data_values#Effect_IDs
 ```yaml
 # seconds
 delay: 5
