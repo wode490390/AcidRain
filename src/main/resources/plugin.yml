@@ -1,0 +1,12 @@
+main: cn.wode490390.nukkit.acidrain.AcidRain
+name: "AcidRain"
+author: "wode490390"
+description: "Acid rain effect plugin for Nukkit"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+permissions:
+  acidrain.immune:
+    description: "Grants immunity to effect from acid rain"
+    default: op
